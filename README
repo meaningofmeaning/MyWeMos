@@ -1,0 +1,5 @@
+This is my repository for working on my WeMos project.
+
+The basic project is to run a pump on a timer, but will require updates to the frequency the pump runs, monitor water levels of the sump tank, and monitor batter levels.
+
+I also intend to include alerting to mobile at some point.
